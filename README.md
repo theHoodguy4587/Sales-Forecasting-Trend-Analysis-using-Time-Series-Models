@@ -38,6 +38,7 @@ Data preparation → Feature engineering → Forecasting → Business reporting.
 │
 ├── data/
 │   └── monthly_sales_features.csv
+|   └── Sample-Superstore.csv
 │
 ├── powerbi/
 │   └── Sales_Analysis_Dashboard.pbix
@@ -47,7 +48,7 @@ Data preparation → Feature engineering → Forecasting → Business reporting.
 │   ├── time_series_analysis.png
 │   ├── forecasting_page.png
 │   ├── ml_actual_vs_predicted.png
-│   └── feature_importance.png
+│   └── feature_engineering_table.png
 │
 └── README.md
 ```
@@ -122,6 +123,17 @@ An interactive Power BI dashboard was created to communicate insights effectivel
 - Confidence interval visualization
 
 ---
+## 📷 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Time Series Analysis
+![Time Series](screenshots/time_series_analysis.png)
+
+### Sales Forecasting
+![Forecast](screenshots/forecasting_page.png)
+ --- 
 
 ## 💡 Business Insights
 - Clear seasonal trends with year-end sales peaks
