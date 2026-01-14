@@ -1,9 +1,9 @@
-# 📊 Sales Forecasting & Business Insights  
+#  Sales Forecasting & Business Insights  
 **Time Series Analysis • Machine Learning • Power BI Dashboard**
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 This project presents an **end-to-end sales analytics and forecasting solution** using historical retail data.  
 It combines **time series feature engineering**, **machine learning models**, and an **interactive Power BI dashboard** to deliver actionable business insights.
 
@@ -12,7 +12,7 @@ Data preparation → Feature engineering → Forecasting → Business reporting.
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 - Analyze historical sales trends and seasonality
 - Identify growth patterns and volatility over time
 - Forecast future monthly sales
@@ -20,7 +20,7 @@ Data preparation → Feature engineering → Forecasting → Business reporting.
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 - **Python** (Pandas, NumPy, Matplotlib)
 - **Scikit-learn** (Linear Regression, Random Forest)
 - **Time Series Feature Engineering**
@@ -29,7 +29,7 @@ Data preparation → Feature engineering → Forecasting → Business reporting.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 ├── notebooks/
 │   ├── 1_eda_time_series.ipynb
@@ -54,7 +54,7 @@ Data preparation → Feature engineering → Forecasting → Business reporting.
 ```
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 - Loaded retail sales dataset
 - Converted date columns to proper datetime format
 - Aggregated sales at **monthly level**
@@ -62,7 +62,7 @@ Data preparation → Feature engineering → Forecasting → Business reporting.
 
 ---
 
-## ⚙️ Feature Engineering (Time Series)
+##  Feature Engineering (Time Series)
 To capture temporal behavior, the following features were created:
 
 ### Lag Features
@@ -76,14 +76,14 @@ These features help models learn **trend momentum and seasonality**.
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 Two regression models were trained and compared:
 
-### 1️⃣ Linear Regression
+### 1️ Linear Regression
 - Baseline, interpretable model
 - Captures overall trend in sales
 
-### 2️⃣ Random Forest Regressor
+### 2️ Random Forest Regressor
 - Handles non-linear patterns
 - Better at modeling sales volatility
 
@@ -94,14 +94,14 @@ Two regression models were trained and compared:
 
 ---
 
-## 📈 Key ML Insights
+##  Key ML Insights
 - Lag and rolling features significantly improved predictions
 - Random Forest outperformed Linear Regression in fluctuating periods
 - Sales show strong dependency on recent historical values
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 An interactive Power BI dashboard was created to communicate insights effectively.
 
 ### Dashboard Pages
@@ -123,7 +123,7 @@ An interactive Power BI dashboard was created to communicate insights effectivel
 - Confidence interval visualization
 
 ---
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ### Executive Overview
 ![Executive Overview](screenshots/executive_overview.png)
@@ -135,7 +135,7 @@ An interactive Power BI dashboard was created to communicate insights effectivel
 ![Forecast](screenshots/forecasting_page.png)
  --- 
 
-## 💡 Business Insights
+##  Business Insights
 - Clear seasonal trends with year-end sales peaks
 - Certain categories consistently drive higher revenue
 - Forecast suggests stable long-term growth with short-term variability
@@ -143,21 +143,21 @@ An interactive Power BI dashboard was created to communicate insights effectivel
 
 ---
 
-## 🚀 Key Takeaways
+##  Key Takeaways
 - Demonstrates a complete analytics and forecasting pipeline
 - Combines machine learning with business intelligence
 - Well-suited for **Data Analyst / Data Science / ML Intern** roles
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 - Incorporate external variables (holidays, promotions)
 - Experiment with advanced models (ARIMA, Prophet)
 - Automate dashboard refresh using scheduled data updates
 
 ---
 
-## 👤 Author
+##  Author
 **Senitha Gunathilaka**  
 Aspiring Data Scientist | Data Analyst  
 
