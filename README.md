@@ -126,13 +126,13 @@ An interactive Power BI dashboard was created to communicate insights effectivel
 ##  Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](https://raw.githubusercontent.com/theHoodguy4587/Sales-Forecasting-Trend-Analysis-using-Time-Series-Models/main/screenshots/executive_overview.png)
 
 ### Time Series Analysis
-![Time Series](screenshots/time_series_analysis.png)
+![Time Series](https://raw.githubusercontent.com/theHoodguy4587/Sales-Forecasting-Trend-Analysis-using-Time-Series-Models/main/screenshots/time_series_analysis.png)
 
 ### Sales Forecasting
-![Forecast](screenshots/forecasting_page.png)
+![Forecast](https://raw.githubusercontent.com/theHoodguy4587/Sales-Forecasting-Trend-Analysis-using-Time-Series-Models/main/screenshots/forecasting_page.png)
  --- 
 
 ##  Business Insights
