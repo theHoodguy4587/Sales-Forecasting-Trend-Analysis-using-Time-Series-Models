@@ -132,7 +132,7 @@ An interactive Power BI dashboard was created to communicate insights effectivel
 ![Time Series](screenshots/time_series_analysis.png)
 
 ### Sales Forecasting
-![Forecast](screenshots/sales_breakdown.png)
+![Forecast](screenshots/forecasting_page.png)
  --- 
 
 ##  Business Insights
